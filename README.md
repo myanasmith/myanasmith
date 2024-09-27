@@ -48,3 +48,5 @@ I’d love to connect and chat more about coding, psychology, or share travel st
 - **GitHub**: [github.com/myanasmith](https://github.com/myanasmith)
 - **Email**: myanasmith2@gmail.com
 - **Instagram (Photography)**: [thegirlnurtures](https://instagram.com/thegirlnurtures)
+- **SheCodes Profile**: https://www.shecodes.io/graduates/147318-myana-smith
+- **LinkedIn**: https://www.linkedin.com/in/myanasmith/

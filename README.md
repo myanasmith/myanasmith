@@ -25,14 +25,14 @@ Outside of coding, I'm deeply passionate about:
 
 ## My Projects
 
-### 1. [Weather Search Project](https://myanasmith.github.io/weather-search-project/)
+### 1. Weather Search Project
 **Description**: An interactive weather search project. 
 - **Live Project**: [View Here](https://weather-search-mjs.netlify.app/)
 - **GitHub Repo**: [Code Here](https://github.com/myanasmith/weather-search-project)
 
 ---
 
-### 2. [World Clock](https://myanasmith.github.io/world-clock/)
+### 2. World Clock
 **Description**: This project showcases the world clock for a few selected cities. 
 
 - **Live Project**: [View Here](https://worldclock-ms.netlify.app/)

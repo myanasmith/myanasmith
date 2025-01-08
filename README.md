@@ -25,19 +25,18 @@ Outside of coding, I'm deeply passionate about:
 
 ## My Projects
 
-### 1. [Reading is the Best 📖](https://myanasmith.github.io/reading-is-the-best/)
-**Description**: A fun interactive webpage promoting the joy of reading. Includes custom styling and interactive JavaScript pop-ups to engage the user.
-
-- **Live Project**: [View Here](https://myanasmith.github.io/reading-is-the-best/)
-- **GitHub Repo**: [Code Here](https://github.com/myanasmith/reading-is-the-best)
+### 1. [Weather Search Project](https://myanasmith.github.io/weather-search-project/)
+**Description**: An interactive weather search project. 
+- **Live Project**: [View Here](https://weather-search-mjs.netlify.app/)
+- **GitHub Repo**: [Code Here](https://github.com/myanasmith/weather-search-project)
 
 ---
 
-### 2. [Traveling - My Hobby ✈️](https://myanasmith.github.io/traveling-hobby/)
-**Description**: This project showcases my love for traveling, featuring a dynamic photo gallery and a theme switcher to enhance user experience.
+### 2. [World Clock](https://myanasmith.github.io/world-clock/)
+**Description**: This project showcases the world clock for a few selected cities. 
 
-- **Live Project**: [View Here](https://myanasmith.github.io/traveling-hobby/)
-- **GitHub Repo**: [Code Here](https://github.com/myanasmith/traveling-hobby)
+- **Live Project**: [View Here](https://worldclock-ms.netlify.app/)
+- **GitHub Repo**: [Code Here](https://github.com/myanasmith/world-clock)
 
 ---
 

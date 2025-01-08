@@ -19,7 +19,7 @@ Outside of coding, I'm deeply passionate about:
 ## What I’m Working On
 
 - 📚 **Learning**: I’m currently enrolled in the **SheCodes Bootcamp**, where I’m learning **HTML, CSS, JavaScript, and More** to create responsive and accessible websites.
-- 💻 **Projects**: Check out the projects I’ve completed so far in my portfolio below!
+- 💻 **Projects**: Check out the projects I’ve completed in my portfolio below!
 - 🌱 **Future Goals**: I’m excited to integrate my coding skills with my passion for **psychology** and **AI ethics**, exploring how technology affects the brain, behavior, and human interactions.
 - 🎓 **Long-term**: Preparing for a future in **cognitive science** or **AI ethics**, and considering graduate programs that align with my interdisciplinary interests.
 
@@ -43,10 +43,9 @@ Outside of coding, I'm deeply passionate about:
 
 ## Connect with Me
 
-I’d love to connect and chat more about coding, psychology, or share travel stories! You can find me here:
+I’d love to connect and chat more about coding and psychology or share travel stories! You can find me here:
 
 - **GitHub**: [github.com/myanasmith](https://github.com/myanasmith)
 - **Email**: myanasmith2@gmail.com
-- **Instagram (Photography)**: [thegirlnurtures](https://instagram.com/thegirlnurtures)
 - **SheCodes Profile**: https://www.shecodes.io/graduates/147318-myana-smith
 - **LinkedIn**: https://www.linkedin.com/in/myanasmith/
